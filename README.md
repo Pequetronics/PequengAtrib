@@ -7,5 +7,5 @@ For install **PequengAtrib** in your **Raspberry Pi Pico** download the director
 # Initializing PequengAtrib (Micropython)
 **PequengAtrib** its not finished yet for **Micropython**
 
-# IMPORTANT (PicoSDK C/C++)
+# PequengAtrib (PicoSDK C/C++)
 **PequengAtrib** its not finished yet for **C/C++**
